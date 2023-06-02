@@ -2,7 +2,7 @@
   "name": "sebas",
   "version": "2.0.0",
   "private": true,
-  "homepage": "http://SebastianMoralesDuque.github.io/sebas",
+  "homepage": "sebas",
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
