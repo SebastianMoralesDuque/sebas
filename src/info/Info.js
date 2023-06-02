@@ -25,7 +25,7 @@ of what each of the values mean.
 export const info = {
     firstName: "Sebastian",
     lastName: "Morales",
-    initials: "SM", // the example uses first and last, but feel free to use three or more if you like.
+    initials: "SD", // the example uses first and last, but feel free to use three or more if you like.
     position: "a Full Stack Developer",
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
@@ -88,7 +88,7 @@ export const info = {
     hobbies: [
         {
             label: 'reading',
-            emoji: '📖'
+            emoji: '📖'by
         },
         {
             label: 'theater',
@@ -110,7 +110,7 @@ export const info = {
             title: "Project 1",
             live: "https://github.com/SebastianMoralesDuque", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
             source: "https://github.com/SebastianMoralesDuque", // this should be a link to the **repository** of the project, where the code is hosted.
-            image: mock1
+            image: mock5
         },
         {
             title: "Project 2",
