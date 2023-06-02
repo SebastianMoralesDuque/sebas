@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Style from './Navbar.module.scss';
 import Toggler from './home/Toggler';
-import { Link, useLocation, Redirect } from 'react-router-dom';
+import { Link, useLocation, useNavigate } from 'react-router-dom';
 import { Box } from '@mui/material';
 import { info } from '../info/Info';
 
@@ -31,11 +31,12 @@ const links = [
 
 export default function Navbar({ darkMode, handleClick }) {
   const location = useLocation();
+  const navigate = useNavigate();
   const [active, setActive] = useState(location.pathname === '/' ? 'home' : location.pathname.slice(1, location.pathname.length));
 
   // Redirección de /sebas/ a la raíz /
   if (location.pathname === '/sebas/') {
-    return <Redirect to="/" />;
+    navigate('/');
   }
 
   return (
