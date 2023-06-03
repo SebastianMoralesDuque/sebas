@@ -26,7 +26,7 @@ export const info = {
     firstName: "Sebastian",
     lastName: "Morales",
     initials: "/", // the example uses first and last, but feel free to use three or more if you like.
-    position: "a Full Stack Developer",
+    position: "a Backend Developer",
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
     baseColor: colors[0],
@@ -37,7 +37,7 @@ export const info = {
         },
         {
             emoji: '🌎',
-            text: 'based in the US'
+            text: 'based in the CO'
         },
         {
             emoji: "💼",
@@ -50,72 +50,52 @@ export const info = {
     ],
     socials: [
         {
-            link: "https://facebook.com",
-            icon: 'fa fa-facebook',
-            label: 'facebook'
-        },
-        {
-            link: "https://instagram.com",
-            icon: 'fa fa-instagram',
-            label: 'instagram'
-        },
-        {
-            link: "https://github.com",
+            link: "https://github.com/SebastianMoralesDuque",
             icon: "fa fa-github",
             label: 'github'
         },
         {
-            link: "https://linkedin.com",
+            link: "https://www.linkedin.com/in/sebas-dev/",
             icon: "fa fa-linkedin",
             label: 'linkedin'
-        },
-        {
-            link: "https://twitter.com",
-            icon: "fa fa-twitter",
-            label: 'twitter'
         }
-// Feel free to remove any of these that you don't have. I'll write an FAQ on how to add new ones later, let me know if you have a request for an icon!
-// Just change the links so that they lead to your social profiles.
-
     ],
-    bio: "Hello! I'm sebas. I'm a systems engineer for Google. I studied CompSci at Harvard, I enjoy long walks on the beach, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
+    bio: "Hello! I'm Sebas, a student of Systems Engineering. I'm passionate about the world of technology and I'm excited to learn and grow in this field. I am currently studying at the University and I love exploring different aspects of computer science. I believe that artificial intelligence has tremendous potential, and I'm thrilled to contribute to its advancement in the future. I'm actively seeking opportunities to apply my knowledge and skills, so you should definitely consider me for your next project or team!",
     skills:
         {
-            proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma'],
-            exposedTo: ['nodejs', 'python', 'adobe illustrator']
+            proficientWith: ['React', 'Django', 'FastAPI', 'Postgresql', 'MariaDB', 'Github', 'Tailwind', 'Docker'],
+            exposedTo: ['Python', 'Java',]
         }
     ,
     hobbies: [
         {
-            label: 'reading',
+            label: 'Technology',
+            emoji: '🖥️'
+        },
+        {
+            label: 'Yoga',
+            emoji: '🧘‍♂️'
+        },
+        {
+            label: 'Reading',
             emoji: '📖'
         },
         {
-            label: 'theater',
-            emoji: '🎭'
-        },
-        {
-            label: 'movies',
-            emoji: '🎥'
-        },
-        {
-            label: 'cooking',
-            emoji: '🌶'
+            label: 'Socializing',
+            emoji: '🕺'
         }
 // Same as above, change the emojis to match / relate to your hobbies or interests.
 // You can also remove the emojis if you'd like, I just think they look cute :P
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
         {
-            title: "Project 1",
-            live: "https://github.com/SebastianMoralesDuque", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            source: "https://github.com/SebastianMoralesDuque", // this should be a link to the **repository** of the project, where the code is hosted.
+            title: "Chatbot",
+            source: "https://github.com/SebastianMoralesDuque/chatbot_django_react", // this should be a link to the **repository** of the project, where the code is hosted.
             image: mock5
         },
         {
-            title: "Project 2",
-            live: "https://github.com/SebastianMoralesDuque",
-            source: "https://github.com/SebastianMoralesDuque",
+            title: "License plate recognition",
+            source: "https://github.com/SebastianMoralesDuque/reconocimiento-placa",
             image: mock2
         },
         {
