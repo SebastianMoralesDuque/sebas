@@ -1,19 +1,18 @@
 {
   "files": {
     "main.css": "/sebas/static/css/main.db3d1917.css",
-    "main.js": "/sebas/static/js/main.6db2f11c.js",
-    "static/media/mock5.png": "/sebas/static/media/mock5.c9b5f54e8517e13fc897.png",
-    "static/media/mock2.png": "/sebas/static/media/mock2.e8ed2c07928dfdc15a79.png",
-    "static/media/mock1.png": "/sebas/static/media/mock1.e11f6103909e8c52d703.png",
-    "static/media/mock3.png": "/sebas/static/media/mock3.8624cffbb7ae4e742c4c.png",
-    "static/media/mock4.png": "/sebas/static/media/mock4.2b2ba794bc5cd75eb2c1.png",
-    "static/media/self.png": "/sebas/static/media/self.274dcdeb9dbffbb3587d.png",
+    "main.js": "/sebas/static/js/main.93202510.js",
+    "static/media/self.png": "/sebas/static/media/self.4205c0d7b012ba6f65eb.png",
+    "static/media/mock2.png": "/sebas/static/media/mock2.22032773cdc063019762.png",
+    "static/media/mock5.png": "/sebas/static/media/mock5.030e0a0032d0388d3291.png",
+    "static/media/mock3.png": "/sebas/static/media/mock3.6e5c49ea75d8d6c18001.png",
+    "static/media/mock4.png": "/sebas/static/media/mock4.2d944cc35cbdbcb73ac4.png",
     "index.html": "/sebas/index.html",
     "main.db3d1917.css.map": "/sebas/static/css/main.db3d1917.css.map",
-    "main.6db2f11c.js.map": "/sebas/static/js/main.6db2f11c.js.map"
+    "main.93202510.js.map": "/sebas/static/js/main.93202510.js.map"
   },
   "entrypoints": [
     "static/css/main.db3d1917.css",
-    "static/js/main.6db2f11c.js"
+    "static/js/main.93202510.js"
   ]
 }
