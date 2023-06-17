@@ -62,7 +62,7 @@ export const info = {
     bio: "Hello! I'm Sebas, a student of Systems Engineering. I'm passionate about the world of technology and I'm excited to learn and grow in this field. I am currently studying at the University and I love exploring different aspects of computer science. I believe that artificial intelligence has tremendous potential, and I'm thrilled to contribute to its advancement in the future. I'm actively seeking opportunities to apply my knowledge and skills, so you should definitely consider me for your next project or team!",
     skills:
         {
-            proficientWith: ['React', 'Django', 'FastAPI', 'Postgresql', 'MariaDB', 'Github', 'Tailwind', 'Docker'],
+            proficientWith: ['React', 'Django', 'FastAPI', 'Postgresql', 'MariaDB', 'Github', 'Tailwind', 'Docker', 'Graphql', 'Amplify', 'Redux tolkit', 'AWS'],
             exposedTo: ['Python', 'Java',]
         }
     ,
