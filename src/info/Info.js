@@ -104,7 +104,7 @@ export const info = {
         },
         {
             title: "Project 4",
-            source: "https://github.com/SebastianMoralesDuque",
+            source: "https://github.com/SebastianMoralesDuque/amplify_proy",
             image: mock4
         }
     ]
