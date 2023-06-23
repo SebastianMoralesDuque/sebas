@@ -103,7 +103,7 @@ export const info = {
             image: mock3
         },
         {
-            title: "Project 4",
+            title: "E-commerce",
             source: "https://github.com/SebastianMoralesDuque/amplify_proy",
             image: mock4
         }
